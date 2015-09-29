@@ -8,9 +8,10 @@ output: html_document
 # Question 1:
 
 In Machine Learning 
-1. What are at least 3 names for the Y values 
+1. What are at least 3 names for the Y values
+-- Outcone, Dependent Variable, 
 2. What are at least 3 names for the X values
-
+-- Predictors, Independent Variables,Attributes 
 
 
 # Question 2:
@@ -41,7 +42,7 @@ Consider the **summary** of a lm model:
     Petal.Length  0.70913    0.05672  12.502  < 2e-16 ***
     Petal.Width  -0.55648    0.12755  -4.363 2.41e-05 ***
     ---
-    Signif. codes:  0  €˜*** €™ 0.001  €˜** €™ 0.01  €˜* €™ 0.05  €˜. €™ 0.1  €˜  €™ 1
+    Signif. codes:  0  â‚¬Ëœ*** â‚¬â„¢ 0.001  â‚¬Ëœ** â‚¬â„¢ 0.01  â‚¬Ëœ* â‚¬â„¢ 0.05  â‚¬Ëœ. â‚¬â„¢ 0.1  â‚¬Ëœ  â‚¬â„¢ 1
     
     Residual standard error: 0.3145 on 146 degrees of freedom
     Multiple R-squared:  0.8586,	Adjusted R-squared:  0.8557 
